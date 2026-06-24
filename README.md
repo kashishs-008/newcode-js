@@ -1,0 +1,2 @@
+# newcode-js
+Taking notes~
