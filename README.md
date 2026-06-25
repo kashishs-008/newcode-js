@@ -6,13 +6,12 @@ Kashish
 # Purpose
 Taking notes of JS 
 
-## Javascript 
-# JavaScript Notes
+# Javascript 
 
 ## Introduction to JavaScript
 JavaScript (JS) is a high-level, interpreted programming language used to make web pages interactive and dynamic. It is mainly used for web development along with HTML and CSS.
 
-###JavaScript helps in:
+### JavaScript helps in:
 * Creating interactive websites
 * Validating forms
 * Performing calculations
@@ -26,7 +25,7 @@ JavaScript (JS) is a high-level, interpreted programming language used to make w
 * Easy to learn
 * Supports event-driven programming
 
-## Syntax of JavaScript
+### Syntax of JavaScript
 JavaScript syntax is the set of rules used to write programs.
 - Case Sensitive
 - Statements usually ends with ;
